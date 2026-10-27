@@ -24,7 +24,7 @@ Mackenzie (2026). The project looks at the mismatch between the profiles of tech
 professionals (skills and seniority) and the requirements of job postings, and
 builds a recommender that suggests the most relevant openings for a given profile.
 It extends the earlier
-[ProjetoIA-RecomendacaoVagas](https://github.com/EnzoFerroni/ProjetoIA-RecomendacaoVagas).
+[job-recommender-nlp](https://github.com/EnzoFerroni/job-recommender-nlp).
 Documents and the notebook are in Portuguese.
 
 ## Method
@@ -51,8 +51,8 @@ Learning") matched the candidate's hard skills.
 ## Getting Started
 
 ```bash
-git clone https://github.com/EnzoFerroni/ProjetoAplicadoIII.git
-cd ProjetoAplicadoIII
+git clone https://github.com/EnzoFerroni/tech-job-recommender.git
+cd tech-job-recommender
 pip install pandas scikit-learn matplotlib seaborn jupyter
 jupyter notebook notebook/AnaliseExploratoria.ipynb
 ```
